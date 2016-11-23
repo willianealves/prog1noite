@@ -5,7 +5,7 @@ int main()
     float av1[10];
     float media;
     float soma=0;
-    
+    float porcmaior;
     int i;
     
     
@@ -34,8 +34,6 @@ int main()
           
          
          
-    
-    
     
     
     
