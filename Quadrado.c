@@ -8,7 +8,7 @@ int main()
     
     for(cont=0;cont<=10;cont++)
     {
-        printf("\n Quadrado de numeros de %d a %d \n", cont, cont*cont);
+        printf("\n Quadrado do numero %d é %d \n", cont, cont*cont);
     }
     
     
